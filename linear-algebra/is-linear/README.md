@@ -11,18 +11,48 @@ pip install matplotlib numpy
 
 ## What is a linear function or linear combination?
 
-A function $f(x_1, x_2, ..., x_n)$ is **linear** if it satisfies:
-
-* **Additivity**: $f(a + b) = f(a) + f(b)$
-* **Homogeneity**: $f(ca) = c \cdot f(a)$
-
-And it looks like:
+A **linear combination** of $x_1, \dots, x_n$ has the form
 
 $$
-f(x_1, x_2, ..., x_n) = a_1x_1 + a_2x_2 + \cdots + a_nx_n
+a_1 x_1 + a_2 x_2 + a_3 x_3 + \cdots + a_n x_n
 $$
 
-Where $a_1, a_2, ..., a_n$ are constants.
+where the numbers $a_1, \dots, a_n \in \mathbb{R}$ are the combination’s **coefficients**.
+
+---
+
+A **linear equation** in the variables $x_1, \dots, x_n$ has the form
+
+$$
+a_1 x_1 + a_2 x_2 + a_3 x_3 + \cdots + a_n x_n = d
+$$
+
+where $d \in \mathbb{R}$ is the **constant**.
+
+---
+
+An **n-tuple** $(s_1, s_2, \dots, s_n) \in \mathbb{R}^n$ is a **solution of**, or **satisfies**, that equation if substituting the numbers $s_1, \dots, s_n$ for the variables gives a **true statement**:
+
+$$
+a_1 s_1 + a_2 s_2 + \cdots + a_n s_n = d
+$$
+
+---
+
+A **system of linear equations**:
+
+$$
+\begin{aligned}
+a_{1,1} x_1 + a_{1,2} x_2 + \cdots + a_{1,n} x_n &= d_1 \\
+a_{2,1} x_1 + a_{2,2} x_2 + \cdots + a_{2,n} x_n &= d_2 \\
+&\vdots \\
+a_{m,1} x_1 + a_{m,2} x_2 + \cdots + a_{m,n} x_n &= d_m \\
+\end{aligned}
+$$
+
+has the solution $(s_1, s_2, \dots, s_n)$ if that **n-tuple** is a solution of **all** of the equations.
+
+---
 
 ## Let's look at the examples:
 
@@ -66,3 +96,6 @@ A **linear function** must form a **plane (or hyperplane)** in space. If the fun
 For more information see:
 - [Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python](https://pypi.org/project/matplotlib/)
 - [NumPy is the fundamental package for scientific computing with Python](https://pypi.org/project/numpy/)
+
+## References
+- [Linear Algebra by Jim Hefferon Fourth edition](http://joshua.smcvt.edu/linearalgebra)
