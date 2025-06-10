@@ -8,4 +8,5 @@ A curated collection of notes, code exercises, and learning materials from my jo
 ## Table of contents
 - [Mathematics](#mathematics)
     - [Linear Algebra](./linear-algebra/)
+        - [Matrices Overview](./linear-algebra/matrices/)
         - [Is function Linear?](./linear-algebra/is-linear/)
