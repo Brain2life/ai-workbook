@@ -270,14 +270,30 @@ If $\det(A) = 0$, the matrix is **singular** and **not invertible**.
 
 Let:
 
-$ A = \begin{bmatrix} 4 & 2 \\ 7 & 6 \end{bmatrix} $
+$$
+A = \begin{bmatrix} 
+4 & 2 \\ 
+7 & 6 
+\end{bmatrix}
+$$
+
 
 Then its inverse is:
 
-$A^{-1} = \frac{1}{10} \begin{bmatrix} 6 & -2 \\ -7 & 4 \end{bmatrix} = \begin{bmatrix} \frac{6}{10} & \frac{-2}{10} \\ \frac{-7}{10} & \frac{4}{10} \end{bmatrix} = \begin{bmatrix} \frac{3}{5} & -\frac{1}{5} \\ -\frac{7}{10} & \frac{2}{5} \end{bmatrix}$
+$$
+A^{-1} = \frac{1}{10} \begin{bmatrix} 6 & -2 \\ -7 & 4 \end{bmatrix} 
+= \begin{bmatrix} \frac{6}{10} & \frac{-2}{10} \\ \frac{-7}{10} & \frac{4}{10} \end{bmatrix} 
+= \begin{bmatrix} \frac{3}{5} & -\frac{1}{5} \\ -\frac{7}{10} & \frac{2}{5} \end{bmatrix}
+$$
 
-The inverse of a 2x2 matrix $ A = \begin{bmatrix} a & b \\ c & d \end{bmatrix} $ is given by the formula:
-$$A^{-1} = \frac{1}{\det(A)} \begin{bmatrix} d & -b \\ -c & a \end{bmatrix}$$
+The inverse of a 2x2 matrix 
+$$
+A = \begin{bmatrix} a & b \\ c & d \end{bmatrix}
+$$  
+Then the inverse of \( A \) is given by the formula:  
+$$
+A^{-1} = \frac{1}{\det(A)} \begin{bmatrix} d & -b \\ -c & a \end{bmatrix}
+$$
 
 For more information, see [How to find Inverse Matrix in russian](http://mathprofi.ru/kak_naiti_obratnuyu_matricu.html)
 
