@@ -287,6 +287,7 @@ A^{-1} = \frac{1}{10} \begin{bmatrix} 6 & -2 \\ -7 & 4 \end{bmatrix}
 $$
 
 The inverse of a 2x2 matrix 
+
 $$
 A = \begin{bmatrix} a & b \\ c & d \end{bmatrix}
 $$  
