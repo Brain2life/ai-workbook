@@ -10,5 +10,5 @@ A curated collection of notes, code exercises, and learning materials from my jo
     - [Linear Algebra](./linear-algebra/)
         - [Matrices Overview](./linear-algebra/matrices/)
         - [Is function Linear?](./linear-algebra/is-linear/)
-- [Machine Learning]
+- [Machine Learning](#machine-learning)
     - [Three Pillars of Machine Learning](./machine-learning/ml-data-model-learning/)
