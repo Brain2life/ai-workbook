@@ -12,3 +12,6 @@ A curated collection of notes, code exercises, and learning materials from my jo
         - [Is function Linear?](./linear-algebra/is-linear/)
 - [Machine Learning](#machine-learning)
     - [Three Pillars of Machine Learning](./machine-learning/ml-data-model-learning/)
+
+## References
+- [FreeCodeCamp: AWS Certified AI Practitioner (AIF-C01)](https://www.youtube.com/watch?v=WZeZZ8_W-M4)
