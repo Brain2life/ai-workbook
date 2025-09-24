@@ -236,6 +236,28 @@ Through this layer, AI delivers value directly to people, powering everything fr
 
 Together, these three layers — **data, model, and application** — create a pipeline that transforms raw data into intelligent insights and actions, enabling organizations to operationalize AI at scale.
 
+## AI Modality and the Confusion with LLMs
+
+One of the most important concepts in artificial intelligence is [**modality**](https://en.wikipedia.org/wiki/Multimodal_learning) — the type of data an AI system is designed to handle. Just as humans rely on different senses such as vision, hearing, and language, AI systems are trained to process specific forms of input and output.
+
+* **Unimodal AI** works with a single data type, such as text-only chatbots or image classifiers.
+* **Multimodal AI** integrates multiple forms of data, such as combining text, images, and speech to deliver richer interactions. For instance, a multimodal system might analyze a photo and a written question together to generate a meaningful response.
+
+This is where confusion often arises with **Large Language Models (LLMs)**. LLMs, like GPT, are trained primarily on text data, which makes them **unimodal**. Their strength lies in processing and generating language. However, many modern AI systems extend LLMs with capabilities like image or audio understanding. These are then referred to casually as LLMs, even though they are technically **multimodal models built on top of an LLM foundation**.
+
+The distinction matters:
+
+* **LLMs are not synonymous with AI** — they are one branch under the broader AI umbrella.
+* **Modality defines scope** — understanding what data a model can work with helps set realistic expectations.
+* **Multimodal AI represents the frontier** — bringing together vision, speech, and language to better reflect how humans perceive and interact with the world.
+
+| **Type**                         | **Modality**                                     | **Strengths**                                                                   | **Examples**                                   |
+| -------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------- | ---------------------------------------------- |
+| **Large Language Models (LLMs)** | Text only (unimodal)                             | Natural language understanding, text generation, summarization, Q\&A            | GPT, Claude, LLaMA                             |
+| **Multimodal AI**                | Multiple data types (text, images, audio, video) | Combines inputs for richer context, enables vision + language or speech + text  | GPT-4 with vision, Gemini, CLIP, Whisper + LLM |
+| **General AI (AGI)**             | All modalities (like human senses)               | Theoretical goal: reason, learn, and adapt across any domain without retraining | Not yet achieved                               |
+
+
 ## References
 - [AWS Docs: What Is Artificial Intelligence (AI)?](https://aws.amazon.com/what-is/artificial-intelligence/)
 - [What is a Neural Network?](https://aws.amazon.com/what-is/neural-network/)
