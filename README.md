@@ -6,6 +6,8 @@ A curated collection of notes, code exercises, and learning materials from my jo
 - [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist)
 
 ## Table of contents
+- [General](#general)
+    - [What is AI, Machine Learning (ML), DeepLearning (DL) and Generative AI (GenAI?)](./general/what-is-ai-ml-dl-genai/)
 - [Mathematics](#mathematics)
     - [Linear Algebra](./linear-algebra/)
         - [Matrices Overview](./linear-algebra/matrices/)
