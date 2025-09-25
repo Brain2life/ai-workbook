@@ -205,6 +205,32 @@ AI is not a single technology but a collection of interrelated fields:
 * **Speech recognition** enables machines to listen and respond.
 * **Generative AI** empowers them to create.
 
+## AI vs. Generative AI: What’s the Difference?
+
+**Artificial Intelligence (AI)** is the broad field of computer science focused on building systems that can perform tasks requiring human-like intelligence. These tasks include decision-making, pattern recognition, speech understanding, image classification, and problem-solving. AI covers a wide spectrum of technologies—from rule-based expert systems of the past to modern machine learning and deep learning models.
+
+**Generative AI (GenAI)** is a **specialized branch of AI**. Unlike traditional AI systems that primarily analyze data, recognize patterns, or make predictions, generative AI creates *new* content. Using advanced deep learning architectures (often large language models or diffusion models), it can generate text, images, audio, video, or even code.
+
+### Key Distinction
+
+* **AI in general**: Makes machines act intelligently — analyzing data, automating tasks, and supporting decisions.
+* **Generative AI**: Goes beyond analysis to *produce original outputs* that resemble human creativity.
+
+### Examples
+
+* **AI**: A spam filter that classifies emails, a medical diagnostic tool that flags anomalies in scans, or a chatbot that follows predefined rules.
+* **Generative AI**: ChatGPT writing essays, DALL·E creating images from text prompts, or AI tools composing music.
+
+In short, **AI is the umbrella concept**, while **Generative AI is a breakthrough subfield** that enables machines not just to understand the world, but to create new artifacts within it.
+
+| **Aspect**     | **Artificial Intelligence (AI)**                                 | **Generative AI (GenAI)**                                    |
+| -------------- | ---------------------------------------------------------------- | ------------------------------------------------------------ |
+| **Purpose**    | Perform tasks requiring intelligence (analyze, classify, decide) | Create new content (text, images, audio, video, code)        |
+| **Data Use**   | Learns from data to make predictions or decisions                | Learns from data to generate new, original outputs           |
+| **Techniques** | Rule-based systems, ML models, deep learning                     | Large language models (LLMs), diffusion models, transformers |
+| **Examples**   | Spam filters, fraud detection, medical diagnosis tools           | ChatGPT, DALL·E, Stable Diffusion, AI music and video tools  |
+| **Output**     | Insights, classifications, decisions                             | Creative artifacts resembling human work                     |
+
 ## Key Components of AI Application Architecture
 
 An effective AI application relies on a layered architecture, supported by robust IT infrastructure that provides the compute power and memory needed to run AI systems at scale. This architecture is typically organized into **three core layers**, each playing a critical role in transforming raw data into intelligent, customer-facing applications.
