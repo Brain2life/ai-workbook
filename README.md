@@ -21,3 +21,4 @@ A curated collection of notes, code exercises, and learning materials from my jo
     - [Practical Linear Algebra for Data Science](https://www.amazon.com/Practical-Linear-Algebra-Data-Science/dp/1098120612)
         - [github.com/mikexcohen/LinAlg4DataScience](https://github.com/mikexcohen/LinAlg4DataScience)
         - [YouTube: Linear Algebra for Data Science](https://www.youtube.com/watch?v=Vpei9S9mFyM&list=PLn0OLiymPak3REyB3XNqqqsRAhZ3LSEH8)
+        - [Linear Algebra: Theory, Intuition, Code by Mike X Cohen](https://agorism.dev/book/math/linalg/linear-algebra_theory_intuition_code-by-mike-x-cohen.pdf)
