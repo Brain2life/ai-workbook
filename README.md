@@ -17,3 +17,7 @@ A curated collection of notes, code exercises, and learning materials from my jo
 
 ## References
 - [FreeCodeCamp: AWS Certified AI Practitioner (AIF-C01)](https://www.youtube.com/watch?v=WZeZZ8_W-M4)
+- Mathematics:
+    - [Practical Linear Algebra for Data Science](https://www.amazon.com/Practical-Linear-Algebra-Data-Science/dp/1098120612)
+        - [github.com/mikexcohen/LinAlg4DataScience](https://github.com/mikexcohen/LinAlg4DataScience)
+        - [YouTube: Linear Algebra for Data Science](https://www.youtube.com/watch?v=Vpei9S9mFyM&list=PLn0OLiymPak3REyB3XNqqqsRAhZ3LSEH8)
