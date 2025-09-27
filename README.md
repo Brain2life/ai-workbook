@@ -8,6 +8,7 @@ A curated collection of notes, code exercises, and learning materials from my jo
 ## Table of contents
 - [General](#general)
     - [What is AI, Machine Learning (ML), DeepLearning (DL) and Generative AI (GenAI?)](./general/what-is-ai-ml-dl-genai/)
+    - [Commutivity Principle](./general/commutivity-principle/)
 - [Mathematics](#mathematics)
     - [Linear Algebra](./linear-algebra/)
         - [Matrices Overview](./linear-algebra/matrices/)
